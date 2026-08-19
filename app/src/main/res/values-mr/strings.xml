@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">अ‍ॅग्रो</string>
+    <string name="navigation_drawer_open">नॅव्हिगेशन ड्रॉवर उघडा</string>
+    <string name="navigation_drawer_close">नॅव्हिगेशन ड्रॉवर बंद करा</string>
+    <string name="settings">सेटिंग्ज</string>
+    <string name="language">भाषा</string>
+    <string name="marathi">मराठी</string>
+    <string name="english">इंग्रजी</string>
+    <string name="todays_weather">आजचे हवामान</string>
+    <string name="arrow">→</string>
+    <string name="land_size_acres">जमिनीचा आकार (एकर)</string>
+    <string name="support_for_fpos_and_agribusiness_projects">एफपीओ आणि कृषी व्यवसाय प्रकल्पांसाठी समर्थन.</string>
+    <string name="user_name">वापरकर्त्याचे नाव</string>
+    <string name="recommendations_crop_tracking">शिफारसी आणि पीक ट्रॅकिंग</string>
+    <string name="expert_advisories_and_mobile_services_for_farmers">शेतकऱ्यांसाठी तज्ञ सल्ला आणि मोबाइल सेवा.</string>
+    <string name="got_it">समजले</string>
+    <string name="take_picture">📷  चित्र काढा</string>
+    <string name="plant_doctor">वनस्पती डॉक्टर</string>
+    <string name="plant_emoji">🌿</string>
+    <string name="crop_management">पीक व्यवस्थापन</string>
+    <string name="register">नोंदणी करा</string>
+    <string name="ai_powered_leaf_disease_detection">एआय-चालित पानांच्या रोगाचा शोध</string>
+    <string name="loading_weather">हवामान लोड होत आहे…</string>
+    <string name="test_tube_emoji">🧪</string>
+    <string name="analyzing_risks">धोक्यांचे विश्लेषण करत आहे…</string>
+    <string name="scan_a_leaf_to_detect_disease">रोग शोधण्यासाठी पान स्कॅन करा</string>
+    <string name="welcome_to_farmconnect">फार्मकनेक्टमध्ये आपले स्वागत आहे</string>
+    <string name="register_to_sell_pulses_and_oilseeds_directly_to_govt">डाळी आणि तेलबिया थेट सरकारला विकण्यासाठी नोंदणी करा.</string>
+    <string name="join_the_farming_community">शेतकरी समुदायात सामील व्हा</string>
+    <string name="smart_tools_for_smarter_farming">हुशार शेतीसाठी स्मार्ट साधने</string>
+    <string name="get_precise_dosage_for_your_land">आपल्या जमिनीसाठी अचूक डोस मिळवा</string>
+    <string name="edit_profile">प्रोफाइल संपादित करा</string>
+    <string name="subsidies_for_drip_sprinkler_irrigation">ठिबक आणि तुषार सिंचनासाठी अनुदान.</string>
+    <string name="or">किंवा</string>
+    <string name="view_treatment_plan">📋  उपचार योजना पहा</string>
+    <string name="fertilizer_calculator">खत कॅल्क्युलेटर</string>
+    <string name="soil_health_card">मृदा आरोग्य कार्ड</string>
+    <string name="sign_up_with_google">Google सह साइन अप करा</string>
+    <string name="already_have_an_account_login">आधीपासूनच खाते आहे? लॉगिन करा</string>
+    <string name="forgot_password">पासवर्ड विसरलात?</string>
+    <string name="user_email_example_com">user.email@example.com</string>
+    <string name="mkisan_portal">एमकिसान पोर्टल</string>
+    <string name="welcome_back">पुन्हा स्वागत आहे!</string>
+    <string name="cultural_process">सांस्कृतिक प्रक्रिया</string>
+    <string name="empowering_farmers">🌱 शेतकऱ्यांचे सक्षमीकरण</string>
+    <string name="connect_with_international_buyers_and_exporters">आंतरराष्ट्रीय खरेदीदार आणि निर्यातदारांशी संपर्क साधा.</string>
+    <string name="pm_krishi_sinchayee_pmksy">पीएम कृषी सिंचई (पीएमकेएसवाय)</string>
+    <string name="government_marketplaces">सरकारी बाजारपेठा</string>
+    <string name="apeda_exports">एपीडा (निर्यात)</string>
+    <string name="category">श्रेणी</string>
+    <string name="fisheries_pmmsy">मत्स्यव्यवसाय (पीएमएमएसवाय)</string>
+    <string name="risks_and_alerts">धोके आणि सूचना</string>
+    <string name="select_crop">पीक निवडा</string>
+    <string name="subsidies_for_poultry_sheep_goats">कोंबडी, मेंढी, शेळीसाठी अनुदान.</string>
+    <string name="warning_emoji">⚠️</string>
+    <string name="kisan_call_center">किसान कॉल सेंटर</string>
+    <string name="chemical_pesticides">रासायनिक आणि कीटकनाशके</string>
+    <string name="locating">शोधत आहे…</string>
+    <string name="select_crop_for_analysis">विश्लेषणासाठी पीक निवडा</string>
+    <string name="latest_updates_alerts">नवीनतम अद्यतने आणि सूचना</string>
+    <string name="organic_farming_pkvy">सेंद्रिय शेती (पीकेव्हीवाय)</string>
+    <string name="sfac_agribusiness">एसएफएसी (कृषी व्यवसाय)</string>
+    <string name="national_agriculture_market_sell_produce_online">राष्ट्रीय कृषी बाजार. उत्पादन ऑनलाइन विका.</string>
+    <string name="phone_number">फोन नंबर</string>
+    <string name="nafed_e_samridhi">नाफेड ई-समृद्धी</string>
+    <string name="save_changes">बदल जतन करा</string>
+    <string name="support_for_organic_farming_certification">सेंद्रिय शेती प्रमाणपत्रासाठी समर्थन.</string>
+    <string name="check_real_time_mandi_prices_near_you">आपल्या जवळच्या मंडीचे दर रिअल-टाइममध्ये तपासा.</string>
+    <string name="subsidized_solar_pumps">अनुदानित सौर पंप.</string>
+    <string name="calculate_dosage">डोसची गणना करा</string>
+    <string name="check_mark_emoji">✅</string>
+    <string name="livestock_mission">पशुधन अभियान</string>
+    <string name="kisan_credit_card_kcc">किसान क्रेडिट कार्ड (केसीसी)</string>
+    <string name="email_address_read_only">ईमेल पत्ता (केवळ वाचनीय)</string>
+    <string name="loading">लोड होत आहे…</string>
+    <string name="manage_crops_market_and_get_insights">पिकांचे व्यवस्थापन करा, बाजारपेठ आणि अंतर्दृष्टी मिळवा</string>
+    <string name="crop_insurance_pmfby">पीक विमा (पीएमएफबीवाय)</string>
+    <string name="government_schemes">सरकारी योजना</string>
+    <string name="download_soil_test_reports">माती परीक्षण अहवाल डाउनलोड करा.</string>
+    <string name="full_name">पूर्ण नाव</string>
+    <string name="pm_kusum_solar">पीएम–कुसुम (सौर)</string>
+    <string name="degree_celsius">--°से</string>
+    <string name="trusted_by_farmers_nationwide">देशभरातील शेतकऱ्यांनी विश्वास ठेवला</string>
+    <string name="weather_advisor">हवामान सल्लागार</string>
+    <string name="apply_for_low_interest_farming_loans">कमी व्याजाच्या शेती कर्जासाठी अर्ज करा.</string>
+    <string name="select_from_gallery">🖼️  गॅलरीतून निवडा</string>
+    <string name="wheat_emoji">🌾</string>
+    <string name="get_started">सुरू करा</string>
+    <string name="farmer_name">शेतकऱ्याचे नाव</string>
+    <string name="claim_insurance_for_crop_loss">पीक नुकसानीसाठी विम्याचा दावा करा.</string>
+    <string name="right_arrow">›</string>
+    <string name="create_account">खाते तयार करा</string>
+    <string name="market_trends_sell_produce">बाजारपेठेतील ट्रेंड आणि उत्पादन विक्री</string>
+    <string name="e_nam">ई-नाम</string>
+    <string name="check_6000_installment_status">₹6,000 हप्त्याची स्थिती तपासा.</string>
+    <string name="farmer">शेतकरी</string>
+    <string name="all_government_schemes">सर्व सरकारी योजना</string>
+    <string name="pm_kisan_money">पीएम-किसान (पैसे)</string>
+    <string name="suitable_actions">योग्य कृती</string>
+    <string name="marketplace">बाजारपेठ</string>
+    <string name="agmarknet">अ‍ॅगमार्कनेट</string>
+    <string name="farm_address_location">शेताचा पत्ता / स्थान</string>
+    <string name="analyzing_weather">हवामानाचे विश्लेषण करत आहे…</string>
+    <string name="call_1800_180_1551">1800–180–1551 वर कॉल करा</string>
+    <string name="svamitva_yojana">स्वामित्व योजना</string>
+    <string name="property_cards_for_village_household_owners">गावातील घरमालकांसाठी प्रॉपर्टी कार्ड.</string>
+    <string name="agri_infra_fund">कृषी पायाभूत सुविधा निधी</string>
+    <string name="loans_for_warehouses_and_cold_storage">वेअरहाऊस आणि कोल्ड स्टोरेजसाठी कर्ज.</string>
+    <string name="support_for_fish_farming_ponds_boats">मासेमारी तलाव/बोटींसाठी आधार.</string>
+    <string name="email">ईमेल</string>
+    <string name="password">पासवर्ड</string>
+    <string name="e_g_2_5">उदा. २.५</string>
+    <string name="profile">प्रोफाइल</string>
+    <string name="logout">लॉगआउट</string>
+
+    <string name="crop_tomato">टोमॅटो</string>
+    <string name="crop_rice">भात</string>
+    <string name="crop_wheat">गहू</string>
+    <string name="crop_maize">मका</string>
+    <string name="crop_cotton">कापूस</string>
+
+    <string name="location_not_found">स्थान सापडले नाही.</string>
+    <string name="error_fetching_weather">हवामान डेटा मिळवण्यात त्रुटी.</string>
+    <string name="error_parsing_weather">हवामान डेटा पार्स करण्यात त्रुटी.</string>
+    <string name="permission_denied">स्थान परवानगी नाकारली.</string>
+    <string name="stable_conditions_advice">या पिकासाठी हवामान सध्या स्थिर आहे. प्रमाणित पद्धती चालू ठेवा.</string>
+    <string name="no_immediate_risks">कोणतेही त्वरित धोके आढळले नाहीत. कोणत्याही बदलांसाठी लक्ष ठेवा.</string>
+
+    <string name="tomato_heat_alert">उष्णतेचा ताण शक्य आहे. पुरेशी पाणी देण्याची व्यवस्था करा आणि दुपारच्या वेळी सावली देण्याचा विचार करा.</string>
+    <string name="tomato_cold_alert">थंडीमुळे इजा होण्याचा धोका. तापमान आणखी कमी झाल्यास तरुण रोपांचे संरक्षण करा.</string>
+    <string name="tomato_humidity_alert">जास्त आर्द्रता आणि पावसामुळे लेट ब्लाइटसारख्या बुरशीजन्य आजारांचा धोका वाढतो. हवा खेळती राहील याची खात्री करा.</string>
+
+    <string name="rice_heat_alert">उच्च तापमानामुळे परागकणांच्या क्षमतेवर परिणाम होऊ शकतो. भातखाचरात पुरेसे पाणी असल्याची खात्री करा.</string>
+    <string name="rice_cold_alert">थंड तापमानामुळे वाढ मंदावू शकते. तापमान नियंत्रित ठेवण्यासाठी पाण्याची इष्टतम पातळी राखा.</string>
+    <string name="rice_transplanting_advice">पावसाळी हवामान भाताच्या रोपांच्या पुनर्लागवडीसाठी योग्य आहे.</string>
+    <string name="rice_water_advice">भातखाचरात पाण्याची सातत्यपूर्ण पातळी राखा. पावसाच्या अभावामुळे अधिक सिंचनाची आवश्यकता असू शकते.</string>
+
+    <string name="wheat_heat_alert">धान्य भरण्याच्या काळात उष्णतेच्या ताणामुळे उत्पादन कमी होऊ शकते. जमिनीत पुरेसा ओलावा असल्याची खात्री करा.</string>
+    <string name="wheat_frost_alert">दंव फुलांचे आणि धान्याचे नुकसान करू शकते. दंव पडण्याची शक्यता असल्यास हलके सिंचन मदत करू शकते.</string>
+    <string name="wheat_humidity_alert">जास्त आर्द्रतेमुळे गंज (तांबेरा) रोगाचा धोका वाढतो. शेताची नियमित तपासणी करा.</string>
+
+    <string name="maize_heat_alert">अत्यंत उष्णतेमुळे परागणात अडथळा येऊ शकतो. ताण व्यवस्थापित करण्यासाठी जमिनीत चांगला ओलावा असल्याची खात्री करा.</string>
+    <string name="maize_cold_alert">थंड तापमानामुळे वाढ खुंटू शकते, विशेषत: सुरुवातीच्या टप्प्यात.</string>
+    <string name="maize_drainage_advice">मुसळधार पावसामुळे पाणी साचू शकते. शेतात पाण्याचा चांगला निचरा होण्याची खात्री करा.</string>
+
+    <string name="cotton_heat_alert">उच्च तापमानामुळे पात्या आणि बोंडे गळू शकतात. सातत्यपूर्ण सिंचन राखा.</string>
+    <string name="cotton_cold_alert">थंड तापमानामुळे शाकीय वाढ मंदावू शकते.</string>
+    <string name="cotton_humidity_alert">दमट हवामानामुळे बोंड सडण्याचा धोका वाढतो. रोपांवर बारकाईने लक्ष ठेवा.</string>
+
+    <string name="remedy_healthy_plant_category">निरोगी रोप</string>
+    <string name="remedy_healthy_plant_cultural">प्रमाणित काळजी सुरू ठेवा: नियमित खोल पाणी देणे, पिकाच्या टप्प्यानुसार संतुलित N-P-K खत घालणे आणि कीटकांच्या सुरुवातीच्या लक्षणांसाठी नियमित तपासणी.</string>
+    <string name="remedy_healthy_plant_chemical">आवश्यक नाही.</string>
+
+    <string name="remedy_viral_category">विषाणूजन्य संसर्ग</string>
+    <string name="remedy_viral_cultural">त्वरित काढून टाका: संक्रमित रोपे उपटून जाळून टाका किंवा पिशवीत भरा (कंपोस्ट करू नका). प्रसार रोखण्यासाठी सर्व साधने निर्जंतुक करा आणि हाताळल्यानंतर हात पूर्णपणे धुवा.</string>
+    <string name="remedy_viral_chemical">विषाणूवर कोणताही इलाज नाही. निरोगी वनस्पतींमध्ये रोग पसरण्यापासून रोखण्यासाठी कीटक वाहकांवर (जसे की पांढरी माशी) इमिडाक्लोप्रिड किंवा डिनोटेफ्युरान वापरून उपचार करा.</string>
+
+    <string name="remedy_greening_category">प्रणालीगत जिवाणू रोग</string>
+    <string name="remedy_greening_cultural">सिट्रस ग्रीनिंगवर कोणताही इलाज नाही. संक्रमित झाडे वेगाने कमी होतील आणि शेजारच्या लिंबूवर्गीय बागांचे संरक्षण करण्यासाठी ती पूर्णपणे काढून टाकली पाहिजेत आणि नष्ट केली पाहिजेत.</string>
+    <string name="remedy_greening_chemical">केवळ वाहक नियंत्रणावर लक्ष केंद्रित करा. एशियन सिट्रस सायलिड लोकसंख्या नियंत्रित करण्यासाठी मातीत इमिडाक्लोप्रिड सारखी प्रणालीगत कीटकनाशके वापरा.</string>
+
+    <string name="remedy_bacterial_spot_category">जिवाणूजन्य संसर्ग</string>
+    <string name="remedy_bacterial_spot_cultural">जिवाणूंचा प्रसार रोखण्यासाठी झाडे ओली असताना बागेत काम करणे टाळा. पिकांची फेरपालट करा. छाटणीची साधने प्रत्येक कट दरम्यान 10% ब्लीच द्रावणाने निर्जंतुक करा.</string>
+    <string name="remedy_bacterial_spot_chemical">कॉपर-आधारित जिवाणूनाशके (उदा. कॉपर ऑक्टानोएट, कॉपर सल्फेट) लावा. मॅन्कोझेबसह कॉपर मिसळल्याने कठीण जिवाणूजन्य ठिपक्यांविरुद्ध कार्यक्षमता वाढू शकते.</string>
+
+    <string name="remedy_mites_category">कीटकांचा प्रादुर्भाव</string>
+    <string name="remedy_mites_cultural">कोळी आणि त्यांची जाळी काढून टाकण्यासाठी पानांच्या खालच्या बाजूला नियमितपणे पाण्याच्या जोरदार फवाऱ्याने धुवा. लेडीबगसारखे नैसर्गिक शत्रू सोडा.</string>
+    <string name="remedy_mites_chemical">बायफेनाझेट, अबामेक्टिन किंवा स्पिरोमेसिफेन असलेले विशिष्ट माइटिसाइड/अॅकारिसाइड्स वापरा. व्यापक-स्पेक्ट्रम कीटकनाशके (जसे की सेविन) टाळा, कारण ते उपयुक्त कीटक मारतात.</string>
+
+    <string name="remedy_fungal_category">बुरशीजन्य संसर्ग</string>
+    <string name="remedy_fungal_cultural">संक्रमित पाने आणि देठ त्वरित छाटून टाका. हवा खेळती राहण्यासाठी वनस्पतींमध्ये पुरेसे अंतर ठेवा. पाने कोरडी ठेवण्यासाठी ओव्हरहेड स्प्रिंकलरऐवजी ठिबक सिंचन वापरून वनस्पतीच्या मुळाशी पाणी द्या. पडलेला कचरा साफ करा.</string>
+    <string name="remedy_fungal_chemical">उपलब्धतेनुसार क्लोरोथालोनिल, कॅप्टन (स्कॅबसाठी), मॅन्कोझेब (ब्लॅक रॉट/रस्टसाठी), किंवा मायक्लोबुटानिल (पावडरी मिल्ड्यूसाठी) वापरा.</string>
+    <string name="enter_land_size">कृपया जमिनीचा आकार टाका</string>
+    <string name="fertilizer_result_format">%1$s (%2$.1f एकर) साठी शिफारस:\n\n• युरिया: %3$.1f किलो\n• डीएपी (DAP): %4$.1f किलो\n• एमओपी (MOP): %5$.1f किलो\n\nटीप: युरिया विभागून द्या (पेरणीच्या वेळी ३०%%, उर्वरित नंतर).</string>
+
+    <string-array name="crop_list_mgmt">
+        <item>भात (धान)</item>
+        <item>गहू</item>
+        <item>मका</item>
+        <item>बाजरी</item>
+        <item>ज्वारी</item>
+        <item>नाचणी</item>
+        <item>हरभरा</item>
+        <item>तूर</item>
+        <item>मूग</item>
+        <item>उडीद</item>
+        <item>मसूर</item>
+        <item>भुईमूग</item>
+        <item>मोहरी</item>
+        <item>सोयाबीन</item>
+        <item>सूर्यफूल</item>
+        <item>तीळ</item>
+        <item>ऊस</item>
+        <item>कापूस</item>
+        <item>ताग</item>
+        <item>तंबाखू</item>
+        <item>चहा</item>
+        <item>कॉफी</item>
+        <item>बटाटा</item>
+        <item>टोमॅटो</item>
+        <item>कांदा</item>
+        <item>मिरची</item>
+        <item>वांगी</item>
+        <item>भेंडी</item>
+        <item>कोबी/फ्लॉवर</item>
+        <item>केळी</item>
+        <item>आंबा</item>
+        <item>लिंबूवर्गीय (लिंबू/संत्रा)</item>
+    </string-array>
+</resources>

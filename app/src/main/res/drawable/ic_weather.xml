@@ -1,0 +1,59 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Sun -->
+    <path
+        android:fillColor="#FDB813"
+        android:pathData="M12,8 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0"/>
+
+    <!-- Sun rays -->
+    <path
+        android:strokeWidth="1.5"
+        android:strokeColor="#FDB813"
+        android:strokeLineCap="round"
+        android:pathData="M12,2 L12,4"/>
+    <path
+        android:strokeWidth="1.5"
+        android:strokeColor="#FDB813"
+        android:strokeLineCap="round"
+        android:pathData="M12,12 L12,14"/>
+    <path
+        android:strokeWidth="1.5"
+        android:strokeColor="#FDB813"
+        android:strokeLineCap="round"
+        android:pathData="M4.22,4.22 L5.64,5.64"/>
+    <path
+        android:strokeWidth="1.5"
+        android:strokeColor="#FDB813"
+        android:strokeLineCap="round"
+        android:pathData="M18.36,5.64 L19.78,4.22"/>
+    <path
+        android:strokeWidth="1.5"
+        android:strokeColor="#FDB813"
+        android:strokeLineCap="round"
+        android:pathData="M2,8 L4,8"/>
+    <path
+        android:strokeWidth="1.5"
+        android:strokeColor="#FDB813"
+        android:strokeLineCap="round"
+        android:pathData="M20,8 L22,8"/>
+
+    <!-- Cloud -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M6,14 Q6,12 8,12 Q8,10.5 10,10.5 Q12,10.5 12,12 Q14,12 14,14 Q14,16 12,16 L8,16 Q6,16 6,14 Z"/>
+
+    <!-- Rain drops -->
+    <path
+        android:fillColor="#4A90E2"
+        android:pathData="M8,17.5 L8,20"/>
+    <path
+        android:fillColor="#4A90E2"
+        android:pathData="M10,18 L10,21"/>
+    <path
+        android:fillColor="#4A90E2"
+        android:pathData="M12,17.5 L12,20"/>
+</vector>

@@ -1,0 +1,67 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Farmer's hat -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M12,4 L8,7 L16,7 Z"/>
+    <path
+        android:fillColor="#D2691E"
+        android:pathData="M6,7 L18,7 L18,8 L6,8 Z"/>
+
+    <!-- Farmer's head -->
+    <path
+        android:fillColor="#FFD1A4"
+        android:pathData="M12,8 m-2,0 a2,2.5 0 1,0 4,0 a2,2.5 0 1,0 -4,0"/>
+
+    <!-- Farmer's body -->
+    <path
+        android:fillColor="#4169E1"
+        android:pathData="M9,10.5 L15,10.5 L15,16 L9,16 Z"/>
+
+    <!-- Farmer's arms -->
+    <path
+        android:fillColor="#FFD1A4"
+        android:pathData="M8,11 L8,14 L9,14 L9,11 Z"/>
+    <path
+        android:fillColor="#FFD1A4"
+        android:pathData="M15,11 L15,14 L16,14 L16,11 Z"/>
+
+    <!-- Farmer's legs -->
+    <path
+        android:fillColor="#654321"
+        android:pathData="M10,16 L10,20 L11,20 L11,16 Z"/>
+    <path
+        android:fillColor="#654321"
+        android:pathData="M13,16 L13,20 L14,20 L14,20 L14,16 Z"/>
+
+    <!-- Pitchfork handle -->
+    <path
+        android:fillColor="#8B4513"
+        android:strokeWidth="0.5"
+        android:strokeColor="#654321"
+        android:pathData="M17,12 L17,21"/>
+
+    <!-- Pitchfork prongs -->
+    <path
+        android:strokeWidth="0.8"
+        android:strokeColor="#8B4513"
+        android:pathData="M15.5,10 L15.5,12"/>
+    <path
+        android:strokeWidth="0.8"
+        android:strokeColor="#8B4513"
+        android:pathData="M17,10 L17,12"/>
+    <path
+        android:strokeWidth="0.8"
+        android:strokeColor="#8B4513"
+        android:pathData="M18.5,10 L18.5,12"/>
+
+    <!-- Pitchfork top connector -->
+    <path
+        android:strokeWidth="0.8"
+        android:strokeColor="#8B4513"
+        android:pathData="M15.5,12 L18.5,12"/>
+</vector>

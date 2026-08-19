@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">agro</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="marathi">Marathi</string>
+    <string name="english">English</string>
+    <string name="todays_weather">Todays Weather</string>
+    <string name="arrow">→</string>
+    <string name="land_size_acres">LAND SIZE (ACRES)</string>
+    <string name="support_for_fpos_and_agribusiness_projects">Support for FPOs and Agribusiness projects.</string>
+    <string name="user_name">User Name</string>
+    <string name="recommendations_crop_tracking">Recommendations &amp; crop tracking</string>
+    <string name="expert_advisories_and_mobile_services_for_farmers">Expert advisories and mobile services for farmers.</string>
+    <string name="got_it">Got it</string>
+    <string name="take_picture">📷  Take Picture</string>
+    <string name="plant_doctor">Plant Doctor</string>
+    <string name="plant_emoji">🌿</string>
+    <string name="crop_management">Crop Management</string>
+    <string name="register">Register</string>
+    <string name="ai_powered_leaf_disease_detection">AI-powered leaf disease detection</string>
+    <string name="loading_weather">Loading weather...</string>
+    <string name="test_tube_emoji">🧪</string>
+    <string name="analyzing_risks">Analyzing risks...</string>
+    <string name="scan_a_leaf_to_detect_disease">Scan a leaf to detect disease</string>
+    <string name="welcome_to_farmconnect">Welcome to FarmConnect</string>
+    <string name="register_to_sell_pulses_and_oilseeds_directly_to_govt">Register to sell Pulses and Oilseeds directly to Govt.</string>
+    <string name="join_the_farming_community">Join the Farming Community</string>
+    <string name="smart_tools_for_smarter_farming">Smart tools for smarter farming</string>
+    <string name="get_precise_dosage_for_your_land">Get precise dosage for your land</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="subsidies_for_drip_sprinkler_irrigation">Subsidies for Drip &amp; Sprinkler irrigation.</string>
+    <string name="or">OR</string>
+    <string name="view_treatment_plan">📋  View Treatment Plan</string>
+    <string name="fertilizer_calculator">Fertilizer Calculator</string>
+    <string name="soil_health_card">Soil Health Card</string>
+    <string name="sign_up_with_google">Sign Up with Google</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="user_email_example_com">user.email@example.com</string>
+    <string name="mkisan_portal">mKisan Portal</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="cultural_process">Cultural Process</string>
+    <string name="empowering_farmers">🌱 Empowering Farmers</string>
+    <string name="connect_with_international_buyers_and_exporters">Connect with international buyers and exporters.</string>
+    <string name="pm_krishi_sinchayee_pmksy">PM Krishi Sinchayee (PMKSY)</string>
+    <string name="government_marketplaces">Government Marketplaces</string>
+    <string name="apeda_exports">APEDA (Exports)</string>
+    <string name="category">Category</string>
+    <string name="fisheries_pmmsy">Fisheries (PMMSY)</string>
+    <string name="risks_and_alerts">Risks and Alerts</string>
+    <string name="select_crop">SELECT CROP</string>
+    <string name="subsidies_for_poultry_sheep_goats">Subsidies for Poultry, Sheep, Goats.</string>
+    <string name="warning_emoji">⚠️</string>
+    <string name="kisan_call_center">Kisan Call Center</string>
+    <string name="chemical_pesticides">Chemical &amp; Pesticides</string>
+    <string name="locating">Locating...</string>
+    <string name="select_crop_for_analysis">Select Crop for Analysis</string>
+    <string name="latest_updates_alerts">Latest updates &amp; alerts</string>
+    <string name="organic_farming_pkvy">Organic Farming (PKVY)</string>
+    <string name="sfac_agribusiness">SFAC (Agribusiness)</string>
+    <string name="national_agriculture_market_sell_produce_online">National Agriculture Market. Sell produce online.</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="nafed_e_samridhi">NAFED e-Samridhi</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="support_for_organic_farming_certification">Support for organic farming certification.</string>
+    <string name="check_real_time_mandi_prices_near_you">Check real-time Mandi prices near you.</string>
+    <string name="subsidized_solar_pumps">Subsidized solar pumps.</string>
+    <string name="calculate_dosage">Calculate Dosage</string>
+    <string name="check_mark_emoji">✅</string>
+    <string name="livestock_mission">Livestock Mission</string>
+    <string name="kisan_credit_card_kcc">Kisan Credit Card (KCC)</string>
+    <string name="email_address_read_only">Email Address (Read Only)</string>
+    <string name="loading">Loading...</string>
+    <string name="manage_crops_market_and_get_insights">Manage crops, market and get insights</string>
+    <string name="crop_insurance_pmfby">Crop Insurance (PMFBY)</string>
+    <string name="government_schemes">Government Schemes</string>
+    <string name="download_soil_test_reports">Download soil test reports.</string>
+    <string name="full_name">Full Name</string>
+    <string name="pm_kusum_solar">PM-KUSUM (Solar)</string>
+    <string name="degree_celsius">--°C</string>
+    <string name="trusted_by_farmers_nationwide">Trusted by farmers nationwide</string>
+    <string name="weather_advisor">Weather Advisor</string>
+    <string name="apply_for_low_interest_farming_loans">Apply for low-interest farming loans.</string>
+    <string name="select_from_gallery">🖼️  Select from Gallery</string>
+    <string name="wheat_emoji">🌾</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="farmer_name">Farmer Name</string>
+    <string name="claim_insurance_for_crop_loss">Claim insurance for crop loss.</string>
+    <string name="right_arrow">›</string>
+    <string name="create_account">Create Account</string>
+    <string name="market_trends_sell_produce">Market trends &amp; sell produce</string>
+    <string name="e_nam">e-NAM</string>
+    <string name="check_6000_installment_status">Check ₹6,000 installment status.</string>
+    <string name="farmer">Farmer</string>
+    <string name="all_government_schemes">All Government Schemes</string>
+    <string name="pm_kisan_money">PM-KISAN (Money)</string>
+    <string name="suitable_actions">Suitable Actions</string>
+    <string name="marketplace">Marketplace</string>
+    <string name="agmarknet">Agmarknet</string>
+    <string name="farm_address_location">Farm Address / Location</string>
+    <string name="analyzing_weather">Analyzing weather...</string>
+    <string name="call_1800_180_1551">Call 1800-180-1551</string>
+    <string name="svamitva_yojana">SVAMITVA Yojana</string>
+    <string name="property_cards_for_village_household_owners">Property cards for village household owners.</string>
+    <string name="agri_infra_fund">Agri Infra Fund</string>
+    <string name="loans_for_warehouses_and_cold_storage">Loans for warehouses and cold storage.</string>
+    <string name="support_for_fish_farming_ponds_boats">Support for fish farming ponds/boats.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="e_g_2_5">e.g. 2.5</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+
+    <string name="crop_tomato">Tomato</string>
+    <string name="crop_rice">Rice</string>
+    <string name="crop_wheat">Wheat</string>
+    <string name="crop_maize">Maize</string>
+    <string name="crop_cotton">Cotton</string>
+
+    <string name="location_not_found">Location not found.</string>
+    <string name="error_fetching_weather">Error fetching weather data.</string>
+    <string name="error_parsing_weather">Error parsing weather data.</string>
+    <string name="permission_denied">Location permission denied.</string>
+    <string name="stable_conditions_advice">Weather conditions are currently stable for this crop. Continue with standard practices.</string>
+    <string name="no_immediate_risks">No immediate risks detected. Monitor for any changes.</string>
+
+    <string name="tomato_heat_alert">Heat stress possible. Ensure adequate watering and consider providing afternoon shade.</string>
+    <string name="tomato_cold_alert">Risk of chilling injury. Protect young plants if temperatures drop further.</string>
+    <string name="tomato_humidity_alert">High humidity and rain increase the risk of fungal diseases like Late Blight. Ensure good air circulation.</string>
+
+    <string name="rice_heat_alert">High temperatures can affect pollen viability. Ensure paddy is adequately flooded.</string>
+    <string name="rice_cold_alert">Cold temperatures can slow growth. Maintain optimal water level to buffer temperature.</string>
+    <string name="rice_transplanting_advice">Rainy conditions are ideal for transplanting rice seedlings.</string>
+    <string name="rice_water_advice">Maintain consistent water levels in the paddy. Lack of rain may require increased irrigation.</string>
+
+    <string name="wheat_heat_alert">Heat stress during grain filling can reduce yield. Ensure soil moisture is adequate.</string>
+    <string name="wheat_frost_alert">Frost can damage flowering and grain development. Light irrigation may help if frost is predicted.</string>
+    <string name="wheat_humidity_alert">High humidity increases the risk of rust diseases. Scout fields regularly.</string>
+
+    <string name="maize_heat_alert">Extreme heat can interfere with pollination. Ensure good soil moisture to manage stress.</string>
+    <string name="maize_cold_alert">Cold temperatures can stunt growth, especially in early stages.</string>
+    <string name="maize_drainage_advice">Heavy rain can lead to waterlogging. Ensure good field drainage.</string>
+
+    <string name="cotton_heat_alert">High temperatures can cause square and boll drop. Maintain consistent irrigation.</string>
+    <string name="cotton_cold_alert">Cool temperatures can slow vegetative growth.</string>
+    <string name="cotton_humidity_alert">Damp conditions increase the risk of boll rot. Monitor plants closely.</string>
+
+    <string name="remedy_healthy_plant_category">Healthy Plant</string>
+    <string name="remedy_healthy_plant_cultural">Continue standard care routines: regular deep watering, balanced N-P-K fertilization according to crop stage, and routine scouting for early signs of pests.</string>
+    <string name="remedy_healthy_plant_chemical">None required.</string>
+
+    <string name="remedy_viral_category">Viral Infection</string>
+    <string name="remedy_viral_cultural">Immediate removal: Uproot and burn or bag the infected plants (do not compost them). Disinfect all tools and wash hands thoroughly after handling to prevent spread.</string>
+    <string name="remedy_viral_chemical">No cure for the virus itself. Treat the insect vectors (like whiteflies) using Imidacloprid or Dinotefuran to prevent them from spreading the disease to healthy plants.</string>
+
+    <string name="remedy_greening_category">Systemic Bacterial Disease</string>
+    <string name="remedy_greening_cultural">There is no cure for Citrus Greening. Infected trees will rapidly decline and must be entirely removed and destroyed to protect neighboring citrus groves.</string>
+    <string name="remedy_greening_chemical">Focus strictly on vector control. Use systemic insecticides like Imidacloprid applied to the soil to control the Asian citrus psyllid population.</string>
+
+    <string name="remedy_bacterial_spot_category">Bacterial Infection</string>
+    <string name="remedy_bacterial_spot_cultural">Avoid working in the garden when plants are wet to prevent spreading the bacteria. Rotate crops annually. Sanitize pruning tools with a 10% bleach solution between cuts.</string>
+    <string name="remedy_bacterial_spot_chemical">Apply Copper-based bactericides (e.g., Copper octanoate, Copper sulfate). Tank-mixing copper with Mancozeb can increase efficacy against tough bacterial spots.</string>
+
+    <string name="remedy_mites_category">Pest Infestation</string>
+    <string name="remedy_mites_cultural">Regularly spray the undersides of leaves with a strong blast of water to physically dislodge the mites and destroy their webs. Introduce natural predators like ladybugs.</string>
+    <string name="remedy_mites_chemical">Use specific miticides/acaricides containing Bifenazate, Abamectin, or Spiromesifen. Avoid broad-spectrum insecticides (like Sevin), as they kill beneficial predators.</string>
+
+    <string name="remedy_fungal_category">Fungal Infection</string>
+    <string name="remedy_fungal_cultural">Prune infected leaves and stems immediately. Ensure adequate spacing between plants to improve air circulation. Water at the base of the plant using drip irrigation rather than overhead sprinklers to keep foliage dry. Clean up fallen debris.</string>
+    <string name="remedy_fungal_chemical">Use Chlorothalonil (highly effective broad-spectrum for blights and spots), Captan (for scab), Mancozeb (for black rots/rusts), or Myclobutanil (for powdery mildew) depending on availability.</string>
+    <string name="enter_land_size">Enter land size</string>
+    <string name="fertilizer_result_format">Recommended for %1$s (%2$.1f Acre):\n\n• Urea: %3$.1f kg\n• DAP: %4$.1f kg\n• MOP: %5$.1f kg\n\nNote: Apply Urea in split doses (30%% at sowing, rest later).</string>
+
+    <string-array name="crop_list_mgmt">
+        <item>Rice (Paddy)</item>
+        <item>Wheat</item>
+        <item>Maize (Corn)</item>
+        <item>Bajra (Pearl Millet)</item>
+        <item>Jowar (Sorghum)</item>
+        <item>Ragi (Finger Millet)</item>
+        <item>Chickpea (Chana)</item>
+        <item>Pigeon Pea (Tur/Arhar)</item>
+        <item>Moong Bean</item>
+        <item>Urad Bean</item>
+        <item>Masoor (Lentil)</item>
+        <item>Groundnut</item>
+        <item>Mustard (Sarson)</item>
+        <item>Soybean</item>
+        <item>Sunflower</item>
+        <item>Sesame (Til)</item>
+        <item>Sugarcane</item>
+        <item>Cotton</item>
+        <item>Jute</item>
+        <item>Tobacco</item>
+        <item>Tea</item>
+        <item>Coffee</item>
+        <item>Potato</item>
+        <item>Tomato</item>
+        <item>Onion</item>
+        <item>Chilli</item>
+        <item>Brinjal (Eggplant)</item>
+        <item>Okra (Bhindi)</item>
+        <item>Cauliflower/Cabbage</item>
+        <item>Banana</item>
+        <item>Mango</item>
+        <item>Citrus (Lemon/Orange)</item>
+    </string-array>
+</resources>

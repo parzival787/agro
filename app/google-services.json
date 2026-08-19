@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "352961256385",
+    "project_id": "agro-ce659",
+    "storage_bucket": "agro-ce659.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352961256385:android:18b1770775105aec5eed40",
+        "android_client_info": {
+          "package_name": "com.example.agro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352961256385-njrh5b3gku7fh91sqprfv07hojdmbfmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agro",
+            "certificate_hash": "e57ced7a2ad0ccd064b682bc5b084c1c91e6936b"
+          }
+        },
+        {
+          "client_id": "352961256385-lf3i6he337p20lvqs86fiq2o8l77ngge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNYe-w1mU1MRh_5fXS_j9Xj2a6HQn9cXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352961256385-lf3i6he337p20lvqs86fiq2o8l77ngge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
