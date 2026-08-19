@@ -40,13 +40,5 @@
 5.  **Build and Run**:
     Click the "Run" button in Android Studio to deploy the app to your device or emulator.
 
-## 📸 Screenshots
-
-*(Add your screenshots here)*
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 *Developed to bridge the gap between technology and traditional farming.*
