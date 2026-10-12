@@ -20,16 +20,36 @@ Agro brings crop-image classification, local weather, and links to farming resou
 - [MarketplaceActivity.java](app/src/main/java/com/example/agro/MarketplaceActivity.java): external agricultural-resource links.
 - [app/build.gradle.kts](app/build.gradle.kts): Android SDK 36, minimum API 24, Java 11, and weather-key configuration.
 
+## Language and crop tools
+
+The settings screen switches between English and Marathi. Crop management calculates estimated nitrogen, phosphorus and potassium needs from the selected crop and acreage, then converts them to urea, DAP and MOP quantities. It does not maintain a saved crop-cycle history.
+
+## Build and verify
+
+The checked-in Gradle wrapper uses Gradle 9.3.1 and requests a JetBrains JDK 21 daemon. Java 11 in the app build file is source compatibility, not the Gradle runtime requirement. Install Android SDK 36 and configure Firebase and the quoted weather key before building.
+
+From the repository root in PowerShell:
+
+```powershell
+.\gradlew.bat :app:assembleDebug
+.\gradlew.bat :app:testDebugUnitTest
+.\gradlew.bat :app:connectedDebugAndroidTest
+```
+
+On macOS/Linux, use `bash ./gradlew` instead. The connected test needs an emulator or device. The debug APK is written under `app/build/outputs/apk/debug/`. The example tests do not validate model accuracy or Firebase/weather integrations.
+
+For a manual check, sign in with a test farmer account, classify a gallery image, try the camera, fetch weather after granting location access, calculate fertilizer for a selected crop and acreage, and switch the app language. Compare model output with a known sample; confidence alone does not verify a diagnosis.
+
 ## 🚀 Features
 
 *   **Plant Disease Detection**: Utilize the power of AI to identify crop diseases instantly. Simply take a photo or upload from the gallery to get a predicted disease class and associated remedies (Cultural & Chemical).
 *   **Real-time Weather Updates**: Stay ahead of the weather with current weather conditions to better plan irrigation, sowing, and harvesting.
 *   **Farmer Dashboard**: A centralized hub for quick access to all vital farming information and modules.
-*   **Marketplace**: A dedicated space for farmers to explore market trends and potentially connect with agricultural commerce.
+*   **Marketplace**: Open external agricultural portals, including e-NAM and Agmarknet.
 *   **Government Schemes**: Stay informed about the latest agricultural subsidies, grants, and schemes provided by the government.
-*   **Crop Management**: Tools to help track and manage different crop cycles effectively.
+*   **Crop Management**: Estimate crop-specific N/P/K requirements and urea, DAP and MOP quantities from acreage.
 *   **Secure Authentication**: Integrated with Firebase for secure user registration and login.
-*   **Profile Management**: Personalized user profiles with data stored securely in Firestore.
+*   **Profile Management**: User profiles stored in Firestore; access protection depends on the rules configured for your Firebase project.
 
 ## 🛠 Tech Stack
 
